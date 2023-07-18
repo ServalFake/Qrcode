@@ -1,0 +1,45 @@
+body{
+    background-color: #7EBBDA;
+}
+
+#outter{
+        margin: 300px 0 0 800px;
+        position: relative;
+        background-color: white;
+        text-align: center;
+        width: 220px;
+        height: 400px;
+        border-radius: 20px;
+}
+#qr{
+    justify-content: center;
+    position: relative;
+    left: 15px;
+    bottom: 350px;
+    background-color:#0022FF;
+    height: 110px;
+    width: 110px;
+    z-index: 1;
+    padding: 40px;
+    border-radius: 20px;
+}
+#qri{
+    justify-content: center;
+    margin: auto;
+    position: relative;
+    right: 30px;
+    bottom: 30px;
+}
+
+#bold {
+    position: relative;
+    font-family: Arial;
+    font-weight: bold;
+    top: 20px;
+    padding-top: 220px;
+}
+
+#lower-text{
+    padding-top: 30px;
+    color: grey;
+}
